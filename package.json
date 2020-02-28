@@ -10,7 +10,7 @@
     "win"
   ],
   "license": "MIT",
-  "repository": "https://git.hostedapp.cloud/root/rclone-bin.git",
+  "repository": "https://github.com/ccsrvs/rclone-bin.git",
   "keywords": [
     "rclone"
   ]
